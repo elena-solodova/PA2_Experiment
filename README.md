@@ -1,6 +1,6 @@
 # PA2_Experiment
 
-Dieses Repository enthält Code und Modelle, die zum Experiment aus der PA2 gehören. Hier wird ein SVM-Modell lokal anhand der segmentierten Gehirnvolumina erstellt. Zusätzlich ist ein Skript enthalten, das für das Training des SVM in Swarm Learning verwendet wurde. Beide Modelle werden evaluiert. 
+Dieses Repository enthält Code und Modelle, die zum Experiment aus der PA2 gehören. Hier wird ein SVM-Modell lokal anhand der segmentierten Gehirnvolumina trainiert. Zusätzlich ist ein Skript enthalten, das für das Training des SVMs mit Swarm Learning verwendet wurde. Beide Modelle werden evaluiert.
 
 - `models/`
   - Enthält vortrainierte Modelle (`AD_model_swarm.pth`, `linear_svm_brain_volumes.pt`).
