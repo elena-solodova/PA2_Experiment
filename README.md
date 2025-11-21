@@ -5,5 +5,5 @@ Dieses Repository enth채lt Code und Modelle, die zum Experiment aus der PA2 geh�
 - `models/`
   - Enth채lt vortrainierte Modelle (`AD_model_swarm.pth`, `linear_svm_brain_volumes.pt`).
 - `src/`
-  - `swarm_learning.py`: Skript f체r das Training in SL.
+  - `swarm_learning.py`: Skript f체r das Training in Swarm Learning.
   - `local_model_training.ipynb`: Jupyter Notebook f체r lokales Training und Evaluierung.
